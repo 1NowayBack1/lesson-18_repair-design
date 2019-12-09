@@ -318,7 +318,6 @@ template {
   display: none; }
 
 .button {
-  padding: 11px 24px;
   border: none;
   border-radius: 2px;
   text-transform: uppercase;
@@ -466,7 +465,7 @@ body {
       height: 30px;
       border: 2px solid #E3B873;
       border-radius: 50%;
-      margin-left: 1.42rem; }
+      margin-left: 1.4rem; }
 
 .instagram {
   display: flex;
